@@ -1,0 +1,8 @@
+{
+  "name": "Kasi Mandala Compass",
+  "description": "A spiritual orientation tool that marks your current location as the center of the Kasi Mandala, revealing sacred directions, deities, and planetary influences.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
